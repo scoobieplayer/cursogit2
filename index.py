@@ -1,3 +1,3 @@
 print ("Bienvenidos al curso de GIT")
-print ("Esto es la primera modificacion al fichero index.py")
-print ("cuarto cambio al index.py")
+print ("Este es el segundo cambio de index.py")
+print ("Este es el tercer cambio de index.py")
